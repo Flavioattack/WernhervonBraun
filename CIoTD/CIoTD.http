@@ -1,0 +1,6 @@
+@CIoTD_HostAddress = http://localhost:5245
+
+GET {{CIoTD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
